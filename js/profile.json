@@ -111,7 +111,7 @@
 					"sn": 12
 
 				}
-				
+
 			]
 		},
 		{
@@ -333,7 +333,7 @@
 			"organisation": "Department of Mathematics",
 			"experience": "Despite the success of deep learning in various tasks, its limiting factor is that its understanding remains underdeveloped, which in turn translates into a lack of principled methods to design efficient deep-neural-network architectures. Working under Assistant Professor Dr. Prabjot Kaur.",
 			"type": "Neural Network work"
-		}		
+		}
 	],
 	"projects": [
 		{
@@ -366,7 +366,7 @@
 			"shortInfo": "You might think that one sure way to keep our computer safe from hackers is to disconnect it from the internet entirely. But did you know that even without internet, a computer can transmit data using light, sound, vibrations, or even heat? In this project, I investigated how a spy or hacker can steal data from an air-gaped computer that has no internet connection. I can even use Google's Science Journal app to demonstrate how the data can be picked up by a nearby smartphone.",
 			"link": ""
 		}
-		
+
 	],
 	"summary": "<p>Hello, I'm an Integrated MSc student in Mathematics & Computing. I have completed my 1st year. I am a computer science enthusiast and passionate programmer, involved in Cyber Security & Artificial Intelligence.</p><p>I'm passionate about programming and delivering, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier. I always try to design, develop and deliver technology solutions to problems around me.</p>",
 	"profileLinks": [
@@ -486,5 +486,5 @@
 		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
 		"Tabs are better than spaces."
 	],
-    "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p> <p>Are you a hiring?<br/>If Yes, I'm actively looking for internship opportunities with Technical and Research. Kindly look around here, if you think I can be a good fit, give me an opportunity to interview with you. Here's my <a href='/Resume_Rohit_Singh_Rathaur.pdf'>resume</a> for your reference.</p> <p>I'm a 2nd year student of Integrated MSc in Mathematics & Computing at <a href='https://www.bitmesra.ac.in/'>Birla Institute of Technology, Mesra</a>. and my schooling from RavindraNath Tagore Education Center Inter College, Orai</a>.</p> <p>I do Web application development, Machine Learning and Computer Algorithms. I overwhelmingly like C/C++, Python and Javascript :)</p> <p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+    "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p> <p>Are you a hiring?<br/>If Yes, I'm actively looking for Technical & Research internship opportunities. Kindly look around here, if you think I can be a good fit, give me an opportunity to interview with you. Here's my <a href='/Resume_Rohit_Singh_Rathaur.pdf'>resume</a> for your reference.</p> <p>I'm a 2nd year student of Integrated MSc in Mathematics & Computing at <a href='https://www.bitmesra.ac.in/'>Birla Institute of Technology, Mesra</a>. and my schooling from RavindraNath Tagore Education Center Inter College, Orai</a>.</p> <p>I do Web application development, Machine Learning and Computer Algorithms. I overwhelmingly like C/C++, Python and Javascript :)</p> <p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
