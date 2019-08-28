@@ -365,6 +365,16 @@
 			"tags": ["network", "cyber security"],
 			"shortInfo": "You might think that one sure way to keep our computer safe from hackers is to disconnect it from the internet entirely. But did you know that even without internet, a computer can transmit data using light, sound, vibrations, or even heat? In this project, I investigated how a spy or hacker can steal data from an air-gaped computer that has no internet connection. I can even use Google's Science Journal app to demonstrate how the data can be picked up by a nearby smartphone.",
 			"link": ""
+		},
+		{
+			"sn": 4,
+			"projectTitle": "ToDoList",
+			"periodStart": "August 2019",
+			"periodEnd": "August 2019",
+			"toolsUsed": ["react.js", "JavaScript", "BootStrap", "HTML", "CSS"],
+			"tags": ["web-app"],
+			"shortInfo": "Made a todo list web app that allows you to add written input to a to do list, able to delete tasks. Uses react.js, javascript, bootstrap, html, css.",
+			"link": "https://teamp0is0n.github.io/todolist/"
 		}
 
 	],
