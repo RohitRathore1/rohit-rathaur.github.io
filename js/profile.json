@@ -433,7 +433,13 @@
             "icon": "ResearchGate.png",
             "link": "https://www.researchgate.net/profile/Rohit_Rathaur",
             "sn": 9
-        }
+        },
+		{
+			"name": "DevPost",
+			"icon": "DevPost.jpg",
+			"link": "https://devpost.com/TeAmP0is0N",
+			"sn": 10
+		}
 	],
 	"likes": [
 		{
