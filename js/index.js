@@ -7,11 +7,11 @@ function loadSkills(skills){
         for(j=i;j<i+6&&j<skills.length;j++){
             var skill = '<div class="col m2"><svg viewBox="0 0 128 128"><path d="'+skills[j].icon+'"></path></svg>'+skills[j].name+'</div>';
             row+=skill;
-            
+
         }
         row+='</div>';
         skillsInnerHTML+=row;
-        
+
         i=j;
     }
     $('#skills').html(skillsInnerHTML);
@@ -23,7 +23,7 @@ projects.sort(function(a,b){
 });
 var i=0,j;
 var projectsInnerHTML='';
-for(i=0;i<projects.length;i++){					
+for(i=0;i<projects.length;i++){
     project = ' <div class="row project"><div class="col m6 s12"><div class="row"><span class="title">'+projects[i].projectTitle+'</span><hr></div><div class="row"><span>'+projects[i].periodStart+'-'+projects[i].periodEnd+'</span></div>';
     toolsUsed = '<div class="row">Tools Used:&nbsp';
     for(j=0;j<projects[i].toolsUsed.length;j++){
@@ -87,7 +87,7 @@ $('#education').html(educationsInnerHTML);
 }
 
 function loadLinks(profileLinks){
-var i=0,j;			
+var i=0,j;
 profileLinks.sort(function(a,b){
     return a.sn-b.sn;
 });
@@ -117,7 +117,7 @@ $('#likes').html(likesInnerHTML);
 
 function loadBlog() {
 var blogHtml = `<div class='sk-ww-medium-publication-feed' data-embed-id='26322'></div><script src='https://www.sociablekit.com/app/embed/medium-publication-feed/widget.js'></script>`;
-$('#blog').html(blogHtml);	
+$('#blog').html(blogHtml);
 }
 
 function onBodyLoad(){
@@ -189,8 +189,8 @@ if(value===true) {
             }
         }
     }).then((value)=>{
-        if(value===true) { 
-            window.open('/Resume_Rohit_Singh_Rathaur.pdf');
+        if(value===true) {
+            window.open('/rohit-rathaur.github.io/Resume_Rohit_Singh_Rathaur.pdf');
         }
     })
 }
@@ -199,9 +199,9 @@ if(value===true) {
 
 function loadGlob4lh3llSays() {
 const glob4lh3llSaysInnerHtml = `<div class="col m6">
-    <h6>Recipe for this website:</h6>	
+    <h6>Recipe for this website:</h6>
     <div class="row">
-        Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="https://github.com/TeAmP0is0N">TeAmP0is0N</a> covered it up for everyone out their. 
+        Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="https://github.com/TeAmP0is0N">TeAmP0is0N</a> covered it up for everyone out their.
         All the content on this website is dynamically loaded from JSON data.
         Fork this <a href="https://github.com/TeAmP0is0N/rohit-rathaur.github.io">repo</a> on github and edit <a href="https://github.com/moghya/rohit-rathaur.github.io/blob/master/js/profile.json">js/profile.json</a> for adding your data.
         <a href="https://medium.com/howcatcancode/developer-profile-template-2017-219f43147efe">Read more</a><br>
@@ -217,14 +217,14 @@ const glob4lh3llSaysInnerHtml = `<div class="col m6">
         <div class="col m3 s3"><a href="http://materializecss.com/">Materialize</a></div>
     </div>
     <div class="row">
-        <div class="col m3 s3"><a href="https://fonts.google.com/">Google Fonts</a></div>	
+        <div class="col m3 s3"><a href="https://fonts.google.com/">Google Fonts</a></div>
         <div class="col m3 s3"><a href="http://konpa.github.io/devicon/">Devicons</a></div>
         <div class="col m3 s3"><a href="http://www.flaticon.com/">Flaticons</a></div>
-        <div class="col m3 s3"><a href="https://simpleicons.org/">SimpleIcons</a></div>				
+        <div class="col m3 s3"><a href="https://simpleicons.org/">SimpleIcons</a></div>
     </div>
     <div class="row">
         <div class="col m3 s3"><a href="http://noraesae.github.io/perfect-scrollbar/">Perfect Scrollbar</a></div>
-        <div class="col m3 s3"><a href="http://www.mattboldt.com/demos/typed-js/">TypedJs</a></div>					
+        <div class="col m3 s3"><a href="http://www.mattboldt.com/demos/typed-js/">TypedJs</a></div>
         <div class="col m3 s3"><a href="https://daneden.github.io/animate.css/">Animate.CSS</a></div>
         <div class="col m3 s3"><a href="http://t4t5.github.io/sweetalert/">Sweetalert</a></div>
     </div>
@@ -232,7 +232,7 @@ const glob4lh3llSaysInnerHtml = `<div class="col m6">
 $('#glob4lh3llSays').html(glob4lh3llSaysInnerHtml);
 }
 
-$.get("js/profile.json", 
+$.get("js/profile.json",
 function(data, status){
     console.log('Got profile:',data,' \nwith status:',status);
     if(status!=="success") {
@@ -245,7 +245,7 @@ function(data, status){
     $('#image img').attr('src','img/'+pInfo.myimg);
     $('#contact').html(pInfo.mob+'</br>'+pInfo.email);
     $('#summary').html(profile.summary);
-    $('#tabs').html(`					
+    $('#tabs').html(`
         <li class="tab col s2"><a href="#hello">Hello</a></li>
         <li class="tab col s2"><a href="#skills">Skills</a></li>
         <li class="tab col s2"><a href="#projects">Projects</a></li>
