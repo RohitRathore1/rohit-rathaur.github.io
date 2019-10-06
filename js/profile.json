@@ -284,6 +284,7 @@
 		}
 	],
 	"experince": [
+
 		{
 			"sn": 4,
 			"link": "",
@@ -292,7 +293,7 @@
 			"periodEnd": "Present",
 			"organisation": "National Service Scheme",
 			"experience": "NSS provide is to improve my own thought process by doing community services. NSS volunteers take care of Blood donation, cleanliness,child education,health awareness issues and many other activities.",
-			"type": "volunteer"
+			"type": "work"
 		},
 		{
 			"sn": 3,
@@ -302,7 +303,7 @@
 			"periodEnd": "July 2019",
 			"organisation": "Jindal Intellicom",
 			"experience": "The BPO executives are supposed to monitor many tasks and the work in the back oce which includes helping customers or clients with billing or purchasing or if the customer wishes to create an account for any product and much more.",
-			"type": "intern"
+			"type": "work"
 		},
 		{
 			"sn": 2,
@@ -310,28 +311,28 @@
 			"workPosition": "Student Partner",
 			"periodStart": "September 2018",
 			"periodEnd": "November 2018",
-			"organisation": "Personality Advancement Circle of Engineers.",
+			"organisation": "Internshala",
 			"experience": "Student Partners represent Internshala in their campuses, and help their peers in order to make the best use of Internshala as well as gain essential skills in marketing, communication and enhance leadership qualities. My coreresponsibilities would be: Inculcate the internship culture in my campus.",
-			"type": "student partner"
+			"type": "work"
 		},
 		{
 			"sn": 1,
-			"link": "https://www.hackerearth.com/",
-			"workPosition": "Campus Ambassador",
-			"periodStart": "January 2019",
-			"periodEnd": "August 2019",
-			"organisation": "HackerEarth",
-			"experience": "To promote competitive programming within my university. To organize programming events and meetups. To organize programming competitions and get sponsored by HackerEarth. To connect with other ambassadors, share resources and get to know about fellow coders around the globe. Participated in student group discussions to stimulate insights. Circulated fliers, displayed posters and oered promotional items on campus to introduce students to competitive Programming.",
-			"type": "volunteer"
-		},
-		{
-			"sn": 0,
 			"link": "https://www.bitmesra.ac.in/",
 			"workPosition": "Research Assistant",
 			"periodStart": "August 2019",
 			"periodEnd": "Present",
 			"organisation": "Department of Mathematics",
 			"experience": "Despite the success of deep learning in various tasks, its limiting factor is that its understanding remains underdeveloped, which in turn translates into a lack of principled methods to design efficient deep-neural-network architectures. Working under Assistant Professor Dr. Prabjot Kaur.",
+			"type": "work"
+		},
+		{
+			"sn": 0,
+			"link": "https://www.hackerearth.com/",
+			"workPosition": "Campus Ambassador",
+			"periodStart": "January 2019",
+			"periodEnd": "August 2019",
+			"organisation": "HackerEarth",
+			"experience": "<ul><li>To promote competitive programming within my university.</li><li>To organize programming events and meetups.</li><li>To organize programming competitions and get sponsored by HackerEarth.</li><li>To connect with other ambassadors, share resources and get to know about fellow coders around the globe.Participated in student group discussions to stimulate insights. Circulated fliers, displayed posters and oered promotional items on campus to introduce students to competitive Programming.</li></ul>",
 			"type": "work"
 		}
 	],
