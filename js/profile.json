@@ -348,7 +348,7 @@
 			"link": "https://www.researchgate.net/publication/334453393_twitter_sentiments_analysis"
 		},
 		{
-			"sn": 1,
+			"sn": 5,
 			"projectTitle": "Time Series Analysis and Forecasting with Python",
 			"periodStart": "May 2019",
 			"periodEnd": "June 2019",
@@ -356,6 +356,16 @@
 			"tags": ["python"],
 			"shortInfo": "Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. The time series forecasting is the use of model to predict future values based on previously observed values. Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales time series. Time series modeling is a dynamic research area which has attracted the attention of researchers over the last few decades. The main aim of time series modeling is to carefully collect and rigorously study the past observations of a time series to develop an appropriate model which describes the inherent structure of the series.",
 			"link": ""
+		},
+		{
+			"sn": 1,
+			"projectTitle": "BetaProfile: A Nicer look to your GitHub Profile",
+			"periodStart": "September 2019",
+			"periodEnd": "October 2019",
+			"toolsUsed": [" next.js, chart.js, GitHub Polyglot, Styled Components, React Flip Move."],
+			"tags": ["React"],
+			"shortInfo": "A nicer look at your GitHub Profile using Next.js, Chart.js, GitHub Polyglot, Styled Components, React Flip Move. You can check that a user which language has mostly used, most starred Repo, top Repos and stars per language of that User. All information will be shown through graphs with interactive colors.",
+			"link": "https://betaprofile-teamp0is0n.now.sh/"
 		},
 		{
 			"sn": 2,
